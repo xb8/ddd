@@ -8,6 +8,8 @@ check this cable out! http://hakshop.myshopify.com/products/micro-to-micro-otg?v
 
 
 
+
+
 usage:
 
 cd path/to/ddd
@@ -16,9 +18,11 @@ su
 
 sh ddd.sh
 
+?????
+
+PROFIT!
 
 
 
 
-
-thx to: shoto, coletz, frienz
+thx to: ShotokanZH , Coletz, frienz
