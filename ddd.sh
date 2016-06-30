@@ -13,12 +13,12 @@
 # if you don't get any device connected try restarting your phone!
 
 # CONFIG
-# path to the backdoor apk. use this if you want a custom .apk to be installed
+# path to the backdoor apk. use this if you want a custom .apk to be installed ( metasploit android/meterpreter/reverse_tcp everyone? )
 #backdoor="./files/NAME.apk"
 
 
 # checks if /data/local/tmp/adb exists. if so delete it and replace with the same binary with right privileges
-# this resolves an issue i had with p2padb. i had to remove it manually or i wasn't able to use the framwork (file busy)
+# this resolves an issue i had with p2padb. i had to remove it manually or i wasn't able to use the framework (file busy)
 
 
 if [ -e "/data/local/tmp/adb" ]; then
